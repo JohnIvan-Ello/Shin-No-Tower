@@ -1,0 +1,19 @@
+newmtl Meshpart1Mtl
+Material Color
+Ka 0.579547 0.420508 0.190463
+Kd 0.579547 0.420508 0.190463
+Ke 0 0 0
+Ks 0.0431819 0.031332 0.0141914 
+
+d 1
+
+Ns 0
+
+map_Ka Meshpart1_diff.png
+map_Kd Meshpart1_diff.png
+map_d Meshpart1_diff.png
+
+map_Bump Meshpart1_nmap.png
+
+map_Ns Meshpart1_spec.png
+
