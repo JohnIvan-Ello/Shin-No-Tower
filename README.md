@@ -23,7 +23,6 @@ Below are highlights of the strategic battlegrounds designed for this experience
 
 ### Mechanics & Gates
 * ![Containment Gate](documentation/containment-gate-visual.jpg)
-* ![Modular Assets](documentation/shin-no-tower-assets.jpg)
 </details>
 
 ---
